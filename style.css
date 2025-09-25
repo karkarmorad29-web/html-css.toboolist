@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #6b0404;
+    margin-bottom: 15px;
+
+}
+
+main {
+    background-color: gray;
+    padding: 15px 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto ;
+}
+
+#logo-img {
+    padding: 5px;
+    height: 50px;
+    vertical-align: middle;
+    
+}
+
+#logo-text {
+    font-size: 40px;
+    vertical-align: middle;
+    display: inline;
+}
+
+#bottoni {
+    background-color: red;
+    margin-bottom: 15px;
+    padding: 10px 20px;
+
+}button {
+    padding: 10px 15px;
+    border-radius: 15px;
+    border-width: 1px;
+}
+
+.blu {
+    background-color: hsl(216, 73%, 56%);
+    color: white;
+    border-color: blue;
+    border-style: solid;
+}
+
+.white {
+    background-color: azure;
+    color: red;
+    border-color: azure ;
+    border-style: solid;
+}
+
+
+
+#lista {
+    background-color: aqua;
+    padding: 15px 40px;
+
+}
+
+summary {
+    font-size: 25px;
+    margin: 10px;
+}
+
+.boo-list {
+    list-style: none;
+}
+
+.icona {
+    display: inline-block;
+    background-color: #0ac70d;
+    color: white;
+    border-radius: 50px;
+    width: 20px;
+    height: 20px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+
+.testo {
+    display: inline;
+
+}
+
+.etich {
+    display: inline-block;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    height: 20px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 20px;
+    vertical-align: middle;
+    padding: 0px  8px;
+}
+
