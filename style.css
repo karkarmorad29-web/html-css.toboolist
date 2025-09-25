@@ -95,7 +95,6 @@ summary {
 
 .testo {
     display: inline;
-
 }
 
 .etich {
@@ -110,4 +109,57 @@ summary {
     vertical-align: middle;
     padding: 0px  8px;
 }
+
+.icona-cross {
+    display: inline-block;
+    background-color: red;
+    color: white;
+    border-radius: 50px;
+    width: 20px;
+    height: 20px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+.etich-t {
+     display: inline-block;
+    background-color: hwb(132 1% 69%);
+    color: white;
+    border-radius: 5px;
+    height: 20px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 20px;
+    vertical-align: middle;
+    padding: 0px  8px;
+}
+
+.etich-et {
+      display: inline-block;
+    background-color: yellow;
+    color: blue;
+    border-radius: 5px;
+    height: 20px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 20px;
+    vertical-align: middle;
+    padding: 0px  8px;
+}
+
+.etich-ta {
+       display: inline-block;
+    background-color: hsl(27, 87%, 36%);
+    color: lab(81.93% -49.99 79.37);
+    border-radius: 5px;
+    height: 20px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 20px;
+    vertical-align: middle;
+    padding: 0px  8px;
+}
+
 
